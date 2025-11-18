@@ -3,7 +3,7 @@
 *
 * Description: A program that loads and analizes numbers form a file 
 *
-* Author: Markos Calderon (N01600902)
+* Author: Markos Calderon
 *
 * Date: November 25, 2024
 */
@@ -260,3 +260,4 @@ void SaveResult(int rows, int cols, double** ary, char* fnameOut){
     fclose(fpo);
     return;
 }
+
